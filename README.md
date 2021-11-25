@@ -28,9 +28,21 @@ Check out the [blog post](https://testdriven.io/creating-a-kubernetes-cluster-on
 
 1. Fork/Clone
 
+    ```sh
+    git clone https://github.com/havelockz/kubectl.git
+    ```
+    
+    ```sh
+    cd kubespray
+    ```
+
 2. Create and activate a virtualenv
 
 3. Install the requirements
+
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 4. [Sign up](https://m.do.co/c/d8f211a4b4c2) for Digital Ocean and [generate](https://www.digitalocean.com/docs/apis-clis/api/) an access token
 
