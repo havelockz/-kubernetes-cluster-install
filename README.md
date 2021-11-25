@@ -12,7 +12,7 @@
 2) Присвойте права доступа на исполнение скрипта:
 
     ```sh
-    chmod +x install.sh
+    chmod +x ./install.sh
     ```
 
 
