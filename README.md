@@ -24,8 +24,6 @@
 # Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric
 
 
-Check out the [blog post](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean).
-
 1. Fork/Clone
 
     ```sh
