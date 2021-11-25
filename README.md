@@ -1,5 +1,4 @@
-# KUBENETS CLUSTER ON DEBIAN
-# BASH
+# Creating a Kubernetes Cluster on Debian with bash
 Установка и настройка kubectl для linux :
 
 
@@ -22,8 +21,8 @@
     ```sh
     ./install.sh
     ```
-# PYTHON
 # Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric
+
 
 Check out the [blog post](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean).
 
