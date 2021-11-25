@@ -1,0 +1,2 @@
+fabric==2.6.0
+python-digitalocean==1.17.0
