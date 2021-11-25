@@ -1,4 +1,4 @@
-# KUBENETS CLUSTER ON UBUNTU
+# KUBENETS CLUSTER ON DEBIAN
 # BASH
 Установка и настройка kubectl для linux :
 
