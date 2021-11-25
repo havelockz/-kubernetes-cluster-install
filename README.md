@@ -1,5 +1,5 @@
-# kubectl
-## BASH
+# KUBENETS CLUSTER ON UBUNTU
+# BASH
 Установка и настройка kubectl для linux :
 
 
@@ -19,7 +19,7 @@ chmod +x install.sh
 ```sh
 ./install.sh
 ```
-## PYTHON
+# PYTHON
 # Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric
 
 Check out the [blog post](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean).
