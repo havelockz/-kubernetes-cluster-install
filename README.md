@@ -4,21 +4,24 @@
 
 
 1) Скопируйте репозиторий:
-```sh
-git clone https://github.com/havelockz/kubectl.git
-```
+
+    ```sh
+    git clone https://github.com/havelockz/kubectl.git
+    ```
 
 
 2) Присвойте права доступа на исполнение скрипта:
-```sh
-chmod +x install.sh
-```
+
+    ```sh
+    chmod +x install.sh
+    ```
 
 
 3) Запустите установочный скрипт:
-```sh
-./install.sh
-```
+
+    ```sh
+    ./install.sh
+    ```
 # PYTHON
 # Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric
 
