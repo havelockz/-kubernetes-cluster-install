@@ -3,18 +3,18 @@
 
 
 1) Скопируйте репозиторий:
-```md
+```sh
 git clone https://github.com/havelockz/kubectl.git
 ```
 
 
 2) Присвойте права доступа на исполнение скрипта:
-```md
+```sh
 chmod +x install.sh
 ```
 
 
 3) Запустите установочный скрипт:
-```md
+```sh
 ./install.sh
 ```
