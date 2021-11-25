@@ -5,7 +5,7 @@
 1) Скопируйте репозиторий:
 
     ```sh
-    git clone https://github.com/havelockz/kubectl.git
+    git clone https://github.com/havelockz/-kubernetes-cluster-install.git
     ```
 
 
@@ -29,7 +29,7 @@ Check out the [blog post](https://testdriven.io/creating-a-kubernetes-cluster-on
 1. Fork/Clone
 
     ```sh
-    git clone https://github.com/havelockz/kubectl.git
+    git clone https://github.com/havelockz/-kubernetes-cluster-install.git
     ```
     
     ```sh
